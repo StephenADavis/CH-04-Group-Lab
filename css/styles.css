@@ -13,7 +13,7 @@ body, header, nav, main, footer, img, h1, h3 {
 
 /*Style rules for body and images */
 body {
-  background-color: #f6eee4;
+  background-color: #fedba6;
 }
 
 img {
@@ -23,7 +23,7 @@ img {
 
 /*Style rules for navigation area */
 nav {
-  background-color: #2a1f14;
+  background-color: #7BAFD4;
   font-size: 80%;
 }
 
@@ -91,12 +91,12 @@ a:link {
 footer {
   text-align: center;
   font-size: 0.85em;
-  background-color: #2a1f14;
-  color: #f6eee4;
+  background-color: #7BAFD4;
+  color: #000;
   padding: 1% 0%;
 }
 
 footer a {
-  color: #f3e6d8;
+  color: #000;
   text-decoration: none;
 }
